@@ -58,6 +58,22 @@ Most of the videos are inspired by the [Android Basics with Compose course](http
 
 [Watch here](https://www.youtube.com/watch?v=PHvx9RSTyEE)
 
+<br><br>
+
+## Testimonials
+
+> "Dear Khalid Saifullah Sir,  Your teaching sessions were very interesting. You always tried to hold everyone's attention. The assignment-type projects you gave after each session were very effective. And I used to try to finish them at once so that my confusions would be cleared. And then I got stuck somewhere, and you tried to solve me. Overall, I like your teaching style very much; you used to solve all the problems in a very friendly manner.If I had any problem with the project, you would respond very quickly, for which I would get more inspiration and dedication. If I was feeling down about a project, you would always try to motivate me. Thank you for helping me throughout my Android developer journey."  
+> — **Prapti Rani Chakrabarthy** [GitHub](https://github.com/Prapti80)
+
+---
+
+> "I participated in this course, and it inspired my interest in native Android development. Although I’m not a highly professional developer, most of what I know about development comes from this course.
+I highly recommend this course to all beginners. I hope it helps others as much as it has helped me."  
+> — **Sagnik Deb** [GitHub](https://github.com/Sagnikdeb02)
+
+---
+
+<br><br>
 
 ## Getting in Touch
 If you have any questions or feedback, feel free to open an issue or reach out to me via [LinkedIn](https://www.linkedin.com/in/khalid-sayfullah).
